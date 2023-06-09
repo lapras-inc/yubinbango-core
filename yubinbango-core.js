@@ -84,4 +84,3 @@ var YubinBango;
     YubinBango.Core = Core;
 })(YubinBango || (YubinBango = {}));
 module.exports = YubinBango;
-//# sourceMappingURL=yubinbango-core.js.map
