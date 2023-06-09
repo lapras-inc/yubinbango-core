@@ -1,10 +1,10 @@
 # YubinBango-Core
 
+[経緯](https://github.com/lapras-inc/scouty/pull/3661)
+
 YubinBango-Coreに7桁の郵便番号を与えると住所をオブジェクトで取得します。
 
-郵便番号検索ライブラリの[YubinBango](https://github.com/yubinbango/yubinbango)や[ajaxzip3](https://github.com/yubinbango/ajaxzip3)の内部で使用されています。
-
-使用方法はtestをご覧ください。
+使用方法はScoutで使用箇所を見てください。
 
 ## Install
 
